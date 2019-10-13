@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Img from '../media/Img.png';
+import Img from '../media/circle-cropped.png';
 
 export default function About() {
   return (

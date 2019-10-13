@@ -1,4 +1,9 @@
-.project-1{
+.project{
+  background-color: #5c6bc0;
+  border-radius: 15px;
+  margin: 40px;
+  padding: 10px 0;
+  color: white;;
 
   .guidr-img{
     border-radius: 15px;
@@ -7,7 +12,7 @@
   button{
     padding: 10px 15px;
     border-radius: 10px;
-    background-color: #a1abf3;
+    background-color: #8e99f3;
     outline: none;
 
     a{
@@ -15,6 +20,7 @@
       text-decoration: none;
     }
   }
+
   .view-site{
     margin-right: 10px;
   }

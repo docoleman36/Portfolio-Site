@@ -6,12 +6,16 @@
   justify-content: center;
   -webkit-box-align: center;
   align-items: center;
-  margin: 0px auto;
+  margin: 0 10px;
 
   img{
     width: 190px;
-    margin-right: 80px;
-    border-radius: 100%;
+    margin-left: 20px;
+    margin-right: 50px;
+  }
+
+  .about-content{
+    width: 600px;
   }
 
   h1{
