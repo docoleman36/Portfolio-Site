@@ -1,10 +1,17 @@
 import React from 'react';
+
+import AppRouter from './components/AppRouter';
+
 import './App.css';
+import './styles/About.scss';
+import './styles/NavStyles.scss';
+import './styles/Projects.scss';
+
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello</h1>
+      <AppRouter />
     </div>
   );
 }

@@ -1,0 +1,30 @@
+.about-me{
+  max-width: 1200px;
+  min-height: calc(100vh - 140px);
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  margin: 0px auto;
+
+  img{
+    width: 190px;
+    margin-right: 80px;
+    border-radius: 100%;
+  }
+
+  h1{
+    font-size: 36px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    text-shadow: rgba(0, 0, 0, 0.1) 2px 2px 2px;
+  }
+
+  p{
+    font-size: 20px;
+    line-height: 1.35;
+    margin-bottom: 10px;
+    text-shadow: rgba(0, 0, 0, 0.05) 2px 2px 2px;
+  }
+}

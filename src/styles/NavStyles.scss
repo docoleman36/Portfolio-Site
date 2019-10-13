@@ -1,0 +1,32 @@
+nav{
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  padding-top: 30px;
+  background-color: #26418f;
+  height: 50px;
+  box-shadow: -1px 1px 1px #5c6bc0;
+
+  .Links{
+    a{
+      font-size: 20px;
+      font-weight: lighter;
+      text-decoration: none;
+      color: white;
+      font-size: 20px;
+      margin-right: 50px;
+      
+      &:hover{
+        border-bottom: 2px solid #8e99f3;
+      }
+    }
+  }
+}
+
+.dc{
+  font-size: 20px;
+  font-weight: lighter;
+  text-decoration: none;
+  color: white;
+  margin-right: 50px;
+}
